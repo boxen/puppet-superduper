@@ -1,6 +1,6 @@
 # SuperDuper!
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.svg?branch=master)](https://travis-ci.org/boxen/puppet-template)
+[![Build Status](https://travis-ci.org/takashiyoshida/puppet-superduper.svg?branch=master)](https://travis-ci.org/takashiyoshida/puppet-superduper)
 
 Installs [SuperDuper!]() on your Mac.
 
