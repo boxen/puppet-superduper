@@ -5,8 +5,8 @@
 #
 class superduper {
   package { 'SuperDuper!':
-    ensure => installed,
+    ensure   => installed,
     provider => 'appdmg_eula',
-    source => 'http://s3.amazonaws.com/shirtpocket/SuperDuper/SuperDuper!.dmg'
+    source   => 'http://s3.amazonaws.com/shirtpocket/SuperDuper/SuperDuper!.dmg'
   }
 }
