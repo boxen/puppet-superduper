@@ -1,8 +1,8 @@
 # SuperDuper!
 
-[![Build Status](https://travis-ci.org/takashiyoshida/puppet-superduper.svg?branch=master)](https://travis-ci.org/takashiyoshida/puppet-superduper)
+[![Build Status](https://travis-ci.org/boxen/puppet-superduper.svg?branch=master)](https://travis-ci.org/boxen/puppet-superduper)
 
-Installs [SuperDuper!]() on your Mac.
+Installs [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) on your Mac.
 
 ## Usage
 
